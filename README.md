@@ -1,5 +1,7 @@
 # Ironless-QDD-Actuator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 The Ironless-QDD-Actuator is a low-cost, high-torque, fully 3D-printed quasi-direct-drive actuator for robotics projects. Using a Halbach array for an ironless rotor and a 3D-printed cycloidal planetary gearbox, it delivers up to 29.4Nm of holding torque for \~$70 (with controller). All custom parts are 3D-printable, making it ideal for makers and hobbyists.
