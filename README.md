@@ -24,7 +24,7 @@ https://cadenkraft.com/ironless-cycloidal-planetary-actuator/
 - CAD files for entire actuator
 - FEMM simulation files
 - Bill of Materials (BOM)
-- ODrive configuration for MKS X Drive
+- ODrive configuration for MKS X Drive Mini
 
 ## License
 
